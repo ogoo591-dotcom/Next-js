@@ -1,0 +1,1 @@
+# Next-js initgit add README.mdgit commit -m first commitgit branch -M maingit remote add origin https://github.com/ogoo591-dotcom/Next-js.gitgit push -u origin main
